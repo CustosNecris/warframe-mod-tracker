@@ -1,0 +1,4 @@
+1) Переходим по директории "C:\Users\User\Desktop\warframe-mod-tracker\app\src-tauri\target\release\bundle\nsis"
+2) Запускаем файл в папке "Warframe Mod Tracker_0.1.0_x64-setup.exe"
+3) Скачиваем по инструкции установщика
+4) удаляем архив
